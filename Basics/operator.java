@@ -18,5 +18,12 @@ public class operator {
         System.out.println(a*b);
         System.out.println(a/b);
         System.out.println(a%b);
+
+        int c=4;
+        a=c+2;
+
+        c+=b;
+        System.out.println(a);
+        System.out.println(c);
     }
 }
