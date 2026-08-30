@@ -27,5 +27,19 @@ public class operator {
         System.out.println(c);
 
         System.out.println("Hello Kanishka!" + " Hello Kannu!");
+
+        System.out.println("value of a is : " +a);
+
+        a++;
+        System.out.println(a);
+
+        a--;
+        System.out.println(a);
+
+        --a;
+        System.out.println(a);
+
+        ++a;
+        System.out.println(a);
     }
 }
