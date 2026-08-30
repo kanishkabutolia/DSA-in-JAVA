@@ -14,7 +14,7 @@ public class datatype {
         System.out.printf("%.2f \n",mul);
         System.out.print("Hey!\n");
 
-        double z= 5.0/2;
+        double z= 18533.0/2;
         System.out.println(z);
 
         double f=5/2;
