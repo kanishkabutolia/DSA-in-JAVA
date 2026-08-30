@@ -11,5 +11,9 @@ public class variables {
         System.out.println("Sum is: " + sum);
         x = x + 50;
         System.out.println(x);
+        int z=10;
+        System.out.println("Exact print " +x+y);
+        System.out.println(x+y+""+z);
+        System.out.println(x+y+z+" Oye");
     }
 }
