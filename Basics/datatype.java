@@ -19,7 +19,6 @@ public class datatype {
 
         double f=5/2;
         System.out.println(f);
-
         
 
     }
