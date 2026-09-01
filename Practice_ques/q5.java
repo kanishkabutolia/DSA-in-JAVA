@@ -9,6 +9,5 @@ public class q5{
         double si =  (p*r*t)/100;
 
         System.out.printf("Simple Interest of Principal = %.2f , Rate = %.2f  & Time = %.2f is: %.4f \n",p,r,t,si);
-        
     }
 }
