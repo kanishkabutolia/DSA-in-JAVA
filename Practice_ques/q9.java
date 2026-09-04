@@ -10,7 +10,7 @@ public class q9 {
         int integer = sc.nextInt();
 
         if(integer<0){
-            integer = integer * -1;
+            integer = integer * (-1);
             System.out.println(integer);
         }
 
