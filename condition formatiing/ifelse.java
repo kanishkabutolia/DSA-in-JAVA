@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class oddeven {
+public class ifelse{
     public static void main (String[] args){
         //Find whether the number is odd or even!!
 
@@ -15,6 +14,5 @@ public class oddeven {
         else{
             System.out.println("Your entered number is odd!");
         }
-
     }
 }
