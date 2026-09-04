@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ifelse{
+public class q1{
     public static void main (String[] args){
         //Find whether the number is odd or even!!
 

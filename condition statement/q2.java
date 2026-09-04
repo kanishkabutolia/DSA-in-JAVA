@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q7{
+public class q2{
     public static void main (String[] args){
         //Checking whether the positive integer input is  divisible by 5 or not using conditional statement
 

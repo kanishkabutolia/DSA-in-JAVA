@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q9 {
+public class q4 {
     public static void main (String[] args){
         // Take any integer as an input and if the integer is negative make its absolute value!
 
