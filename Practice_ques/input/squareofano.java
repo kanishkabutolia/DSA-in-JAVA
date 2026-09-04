@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class squareofano {
-    //Square of 2 no by takinh input
+    //Square of no by takinh input
     public static void main (String[] args){
         Scanner sc = new Scanner (System.in);
 
