@@ -9,7 +9,8 @@ public class q11 {
         System.out.print("Enter the integer: ");
         double num = sc.nextDouble();
 
-        if(num%5==0 && num%3==0){
+        // if(num%5==0 && num%3==0){
+        if(num%15==0){
             System.out.println("The integer is divisible by 3 and 5");
         }
         else{
