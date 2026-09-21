@@ -17,7 +17,14 @@ public class q21 {
         if(x==0 && y==0){
             System.out.println("Both points lies at origin (0,0)");
         }
-        else if()
-
+        else if(x==0 && y!=0){
+            System.out.println("The points lies at y axis");
+        }
+        else if(y==0 && x!=0){
+            System.out.println("The points lies at x axis");
+        }
+        else{
+            System.out.println("The points lies at both x and y axis");
+        }
     }
 }
