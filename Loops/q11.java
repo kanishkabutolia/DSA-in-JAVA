@@ -9,15 +9,23 @@ public class q11 {
         System.out.print("Enter n: ");
         int n = sc.nextInt();
 
-        int hf=1;
+        // int hf=1;
 
-        for(int i=1; i<n; i++){
+        // for(int i=1; i<n; i++){
+        //     if(n%i==0){
+        //         System.out.println(i);
+        //         hf=i;
+        //     }
+        // }
+        // System.out.println(n);
+        // System.out.printf("The highest factor of %d is: %d", n, hf);
+
+        for(int i=n-1; i>=1; i--){
             if(n%i==0){
-                System.out.println(i);
-                hf=i;
+                System.out.printf("The highest factor of %d is: %d", n, i);
+                break;
             }
         }
-        System.out.println(n);
-        System.out.printf("The highest factor of %d is: %d", n, hf);
+
     }
 }
